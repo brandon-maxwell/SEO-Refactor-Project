@@ -3,7 +3,9 @@ This repository includes refracted code for the Horiseon website to improve acce
 
 ## How the Project Should Look
 
-![project screenshot](Assets/screenshot.png)
+**URL:**https://brandon-maxwell.github.io/SEO-Refactor-Project/
+
+![project screenshot](assets/screenshot.png)
 
 ## Credits
 #### Inspiration by:
